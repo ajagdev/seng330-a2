@@ -1,0 +1,10 @@
+INSTALL
+
+1. Install boost
+	OSX: brew install boost
+	Windows: Download and install from http://www.boost.org/
+
+2. Run make
+
+3. Run the resulting executable 'prototype'
+	./prototype
